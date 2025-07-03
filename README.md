@@ -1,6 +1,6 @@
 # Options-ML-BSM
 
-n computational finance and risk management, several numerical methods (e.g.,
+In computational finance and risk management, several numerical methods (e.g.,
 finite differences, fourier methods, and Monte Carlo simulation) are commonly used
 for the valuation of financial derivatives.
 
